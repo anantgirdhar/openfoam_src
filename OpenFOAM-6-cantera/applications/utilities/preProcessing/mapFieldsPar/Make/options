@@ -1,0 +1,14 @@
+EXE_INC = \
+    -I$(LIB_SRC)/meshTools/lnInclude \
+    -I$(LIB_SRC)/lagrangian/basic/lnInclude \
+    -I$(LIB_SRC)/finiteVolume/lnInclude \
+    -I$(LIB_SRC)/sampling/lnInclude \
+    -I$(WM_CANTERA_LIB)
+
+EXE_LIBS = \
+    -lsampling \
+    -lmeshTools \
+    -llagrangian \
+    -lfiniteVolume \
+    -lgenericPatchFields \
+    -lcantera_shared
