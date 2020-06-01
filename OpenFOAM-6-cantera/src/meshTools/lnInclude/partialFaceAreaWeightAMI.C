@@ -1,1 +1,0 @@
-../AMIInterpolation/AMIInterpolation/AMIMethod/partialFaceAreaWeightAMI/partialFaceAreaWeightAMI.C

@@ -1,1 +1,0 @@
-../sampledSetWriters/jplot/jplotSetWriterRunTime.C

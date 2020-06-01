@@ -1,1 +1,0 @@
-../joints/functionDot/functionDot.C

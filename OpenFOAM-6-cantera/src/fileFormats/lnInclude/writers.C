@@ -1,1 +1,0 @@
-../sampledSetWriters/writers.C

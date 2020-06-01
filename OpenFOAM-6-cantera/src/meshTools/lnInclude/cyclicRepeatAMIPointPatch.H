@@ -1,1 +1,0 @@
-../AMIInterpolation/patches/cyclicRepeatAMI/cyclicRepeatAMIPointPatch/cyclicRepeatAMIPointPatch.H

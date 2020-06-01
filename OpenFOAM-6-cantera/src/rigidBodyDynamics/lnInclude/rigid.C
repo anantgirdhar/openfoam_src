@@ -1,1 +1,0 @@
-../joints/rigid/rigid.C

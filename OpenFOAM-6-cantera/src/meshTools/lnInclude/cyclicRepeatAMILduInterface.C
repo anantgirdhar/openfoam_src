@@ -1,1 +1,0 @@
-../AMIInterpolation/patches/cyclicRepeatAMI/cyclicRepeatAMILduInterfaceField/cyclicRepeatAMILduInterface.C

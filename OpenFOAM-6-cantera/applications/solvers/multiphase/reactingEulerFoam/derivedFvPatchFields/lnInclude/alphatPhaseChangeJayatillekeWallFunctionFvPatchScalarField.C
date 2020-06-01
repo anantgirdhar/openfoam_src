@@ -1,1 +1,0 @@
-../alphatPhaseChangeJayatillekeWallFunction/alphatPhaseChangeJayatillekeWallFunctionFvPatchScalarField.C

@@ -1,1 +1,0 @@
-../getPatchFieldScalar.H

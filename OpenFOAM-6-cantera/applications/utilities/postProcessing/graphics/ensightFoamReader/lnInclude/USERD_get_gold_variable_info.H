@@ -1,1 +1,0 @@
-../USERD_get_gold_variable_info.H

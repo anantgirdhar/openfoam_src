@@ -1,1 +1,0 @@
-../sampledSetWriters/ensight/ensightSetWriterRunTime.C

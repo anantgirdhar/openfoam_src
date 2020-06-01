@@ -1,1 +1,0 @@
-../triSurface/stitchTriangles.C

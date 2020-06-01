@@ -1,1 +1,0 @@
-../copiedFixedValue/copiedFixedValueFvPatchScalarField.H

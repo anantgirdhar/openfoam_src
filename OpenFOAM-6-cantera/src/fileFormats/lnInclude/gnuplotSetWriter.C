@@ -1,1 +1,0 @@
-../sampledSetWriters/gnuplot/gnuplotSetWriter.C

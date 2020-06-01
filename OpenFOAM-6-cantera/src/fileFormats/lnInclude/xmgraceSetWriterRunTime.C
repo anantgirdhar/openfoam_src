@@ -1,1 +1,0 @@
-../sampledSetWriters/xmgrace/xmgraceSetWriterRunTime.C

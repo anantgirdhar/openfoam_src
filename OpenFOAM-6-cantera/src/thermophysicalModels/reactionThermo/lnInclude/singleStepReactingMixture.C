@@ -1,1 +1,0 @@
-../mixtures/singleComponentMixture/singleStepReactingMixture.C

@@ -1,1 +1,0 @@
-../db/functionObjects/writeLocalObjects/writeLocalObjects.C

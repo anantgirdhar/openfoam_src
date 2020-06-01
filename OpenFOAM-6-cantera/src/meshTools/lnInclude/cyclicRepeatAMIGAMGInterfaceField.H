@@ -1,1 +1,0 @@
-../AMIInterpolation/GAMG/interfaceFields/cyclicRepeatAMIGAMGInterfaceField/cyclicRepeatAMIGAMGInterfaceField.H

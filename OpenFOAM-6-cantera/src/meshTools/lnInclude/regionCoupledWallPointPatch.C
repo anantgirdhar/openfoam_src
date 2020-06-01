@@ -1,1 +1,0 @@
-../regionCoupled/patches/regionCoupledPointPatch/regionCoupledWallPointPatch.C

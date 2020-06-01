@@ -1,1 +1,0 @@
-../triSurface/interfaces/GTS/writeGTS.C

@@ -1,1 +1,0 @@
-../sampledSetWriters/vtk/vtkSetWriterRunTime.C

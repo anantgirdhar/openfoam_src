@@ -1,0 +1,4 @@
+EXE_INC = \
+    -I$(SUNDIALS_INCLUDE) \
+    -I$(WM_CANTERA_DIR) \
+    -I$(WM_CANTERA_DIR)/cantera

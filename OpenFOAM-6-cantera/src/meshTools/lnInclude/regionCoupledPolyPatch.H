@@ -1,1 +1,0 @@
-../regionCoupled/patches/regionCoupledPolyPatch/regionCoupledPolyPatch.H

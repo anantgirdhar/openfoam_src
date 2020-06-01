@@ -1,1 +1,0 @@
-../triSurface/interfaces/STL/readSTLBINARY.C

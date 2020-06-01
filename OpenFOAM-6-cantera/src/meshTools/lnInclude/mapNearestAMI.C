@@ -1,1 +1,0 @@
-../AMIInterpolation/AMIInterpolation/AMIMethod/mapNearestAMI/mapNearestAMI.C

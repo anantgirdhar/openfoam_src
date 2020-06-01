@@ -1,1 +1,0 @@
-../sampledSetWriters/ensight/ensightSetWriter.C
